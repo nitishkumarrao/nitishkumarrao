@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishkumarrao&show_icons=true&locale=en&layout=compact" alt="nitishkumarrao" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishkumarrao&show_icons=true&locale=en" alt="nitishkumarrao" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nitishkumarrao&show_icons=true&locale=en" alt="nitishkumarrao" /></p>
 
 
 
