@@ -14,10 +14,10 @@
 
 
 
-- 🔭 I’m 3rd B.Tech CSE student.
+- 🔭 I’m 4th Year B.Tech CSE student.
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Python Projects
-- 🤔 I’m looking for help with DS
+- 🤔 I’m looking for help with DSA
 - 💬 Ask me about Python or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @imnitishk](https://twitter.com/imnitishk)
 - 😄 Pronouns: He/His
