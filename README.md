@@ -15,7 +15,7 @@
 
 
 - 🔭 I’m 4th Year B.Tech CSE student.
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on Python Projects
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about Python or any tech-related stuff.
